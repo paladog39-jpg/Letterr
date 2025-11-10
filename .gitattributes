@@ -15,7 +15,7 @@
     <script src="script.js"></script>
   </body>
 </html>
-const message = (To the greatest enemy of mine,/n/nHappiest birthday to the main villain of the series, thank you for letting me know you thank you for being there naggin me when i was about to quit on something, your existence means a lot./n/nI hope that every plans, adventure, and wish pf yours will come true. I wish that your year will fill with happiness and achievements. You deserve all happiness in the world./n/nI also hope na u should be kind to yourself, i know naman na we cant control everything kaya if ever na u needed someone to talk to always remember na Im all ears, dont hesitate, yourr always welcome./n/nHappy happy birthday ulit, always wear that pretty smile of yours. Lahat ng aaway sayo di natin bati. Enjoy your day weett.) 
+const message = ' To the greatest enemy of mine,/n/nHappiest birthday to the main villain of the series, thank you for letting me know you thank you for being there naggin me when i was about to quit on something, your existence means a lot./n/nI hope that every plans, adventure, and wish pf yours will come true. I wish that your year will fill with happiness and achievements. You deserve all happiness in the world./n/nI also hope na u should be kind to yourself, i know naman na we cant control everything kaya if ever na u needed someone to talk to always remember na Im all ears, dont hesitate, yourr always welcome./n/nHappy happy birthday ulit, always wear that pretty smile of yours. Lahat ng aaway sayo di natin bati. Enjoy your day weett.' ; 
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
